@@ -1,0 +1,22 @@
+# === OS files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Editor / IDE ===
+.vscode/
+.idea/
+*.iml
+*.swp
+
+# === Environment files (jaga-jaga jika ada di root) ===
+.env
+.env.local
+
+# === Logs ===
+*.log
+npm-debug.log*
+
+# === Misc ===
+*.tmp
+*.bak

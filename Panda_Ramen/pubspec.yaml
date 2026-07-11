@@ -1,0 +1,88 @@
+name: panda_ramen
+
+environment:
+  sdk: ^3.1.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  provider: ^6.1.2
+  qr_flutter: ^4.1.0 
+  path: ^1.9.0
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.6.12
+  image_picker: ^1.1.2
+  http: ^1.2.1
+  url_launcher: ^6.3.0
+  screenshot: ^3.0.0
+  gal: ^2.3.0 
+  intl: ^0.20.3
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.3   
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  web:
+    generate: true
+    image_path: "assets/images/logo.png"  
+  image_path: "assets/images/logo.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+    - assets/images/abura_soba_regular.jpg
+    - assets/images/abura_soba_special.jpg
+    - assets/images/mazesoba_regular.jpg
+    - assets/images/mazesoba_special.jpg
+    - assets/images/classic_tori_shio_regular.jpg
+    - assets/images/classic_tori_shio_special.jpg
+    - assets/images/classic_tori_shio_special_tamtam.jpg
+    - assets/images/royal_tori_shio_regular.jpg
+    - assets/images/royal_tori_shio_special.jpg
+    - assets/images/royal_tori_shio_special_tamtam.jpg
+    - assets/images/ultimate_takano_regular.jpg
+    - assets/images/ultimate_takano_special.jpg
+    - assets/images/ultimate_takano_special_tamtam.jpg
+    - assets/images/supreme_creamy_regular.jpg
+    - assets/images/supreme_creamy_special.jpg
+    - assets/images/supreme_creamy_special_tamtam.jpg
+    - assets/images/samurai_komakura_regular.jpg
+    - assets/images/samurai_komakura_special_tamtam.jpg
+    - assets/images/extreme_kara_miso.jpg
+    - assets/images/mini_supreme_creamy_regular.jpg
+    - assets/images/mini_supreme_creamy_special.jpg
+    - assets/images/mini_ultimate_takano_regular.jpg
+    - assets/images/mini_ultimate_takano_special.jpg
+    - assets/images/corn_ribs.jpg
+    - assets/images/gyoza_4pcs.jpg
+    - assets/images/gyoza_8pcs.jpg
+    - assets/images/kakiage.jpg
+    - assets/images/enoki_tempura.jpg
+    - assets/images/milk_purin.jpg
+    - assets/images/soft_ice_cream_matcha.jpg
+    - assets/images/soft_ice_cream_vanilla.jpg
+    - assets/images/basque_burnt_cheesecake.jpg
+    - assets/images/matcha_creme_brulee_crepes.jpg
+    - assets/images/pristine.jpg
+    - assets/images/house_blend_iced_tea.jpg
+    - assets/images/hot_tea.jpg
+    - assets/images/ocha_dingin_refill.jpg
+    - assets/images/lemon_tea.jpg
+    - assets/images/chicken_karaage_don.jpg
+    - assets/images/ebi_tempura_don.jpg
+    - assets/images/extra_noodle.jpg
+    - assets/images/extra_chashu.jpg
+    - assets/images/extra_nori.jpg
+    - assets/images/extra_ajitama.jpg
+    - assets/images/extra_cabai.jpg
+    - assets/images/extra_menma.jpg

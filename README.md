@@ -45,7 +45,11 @@ Pastikan file konfigurasi Firebase (`google-services.json` untuk Android dan/ata
 
 ## 📸 Screenshot
 
-Screenshot aplikasi tersedia di folder [`docs/screenshots`](./docs/screenshots).
+<p align="center">
+  <img src="docs/screenshots/01-login.png" width="200"/>
+  <img src="docs/screenshots/02-home.png" width="200"/>
+  <img src="docs/screenshots/03-menu.png" width="200"/>
+</p>
 
 ## 📄 Dokumentasi Tambahan
 

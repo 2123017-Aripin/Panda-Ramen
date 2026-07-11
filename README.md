@@ -58,7 +58,7 @@ Pastikan file konfigurasi Firebase (`google-services.json` untuk Android dan/ata
 
 ## 👤 Author
 
-**Aripin** — Universitas Islam Malang (UIM Yogya)
+**Aripin** — Universitas Islam Mulia (UIM Yogya)
 
 ## 📝 License
 

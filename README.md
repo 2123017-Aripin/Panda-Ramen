@@ -46,9 +46,20 @@ Pastikan file konfigurasi Firebase (`google-services.json` untuk Android dan/ata
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="docs/screenshots/01-login.png" width="200"/>
-  <img src="docs/screenshots/02-home.png" width="200"/>
-  <img src="docs/screenshots/03-menu.png" width="200"/>
+  <img src="docs/screenshots/1.tampilan-awal.png" width="200"/>
+  <img src="docs/screenshots/2.login-admin.png" width="200"/>
+  <img src="docs/screenshots/3.edit-menu.png" width="200"/>
+  <img src="docs/screenshots/4.edit-menu2.png" width="200"/>
+  <img src="docs/screenshots/5.tambah-menu-baru.png" width="200"/>
+  <img src="docs/screenshots/6.menu-page.png" width="200"s/>
+  <img src="docs/screenshots/7.menu-page2.png" width="200"/>
+  <img src="docs/screenshots/8.keranjang.png" width="200"/>
+  <img src="docs/screenshots/chekout-page.png" width="200"/>
+  <img src="docs/screenshots/payment-dikasir.png" width="200"/>
+  <img src="docs/screenshots/payment-online.png" width="200"/>
+  <img src="docs/screenshots/payment-online2.png" width="200"/>
+  <img src="docs/screenshots/payment-midtrans.png" width="200"/>
+  <img src="docs/screenshots/payment-sukses.png" width="200"/>
 </p>
 
 ## 📄 Dokumentasi Tambahan

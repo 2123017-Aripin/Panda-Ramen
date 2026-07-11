@@ -23,7 +23,7 @@ panda-ramen/
 
 ## 🚀 Cara Menjalankan Project di Komputer Lain
 
-Panduan ini untuk siapa saja (termasuk kamu sendiri di komputer lain) yang ingin men-download project ini dari GitHub dan menjalankannya dari nol.
+Panduan ini untuk siapa saja yang ingin men-download project ini dari GitHub dan menjalankannya dari nol.
 
 ### 0. Prasyarat (Install Dulu Sebelum Mulai)
 

@@ -119,7 +119,22 @@ Backend berjalan di terminal pertama, aplikasi Flutter berjalan di terminal kedu
 
 ## 📸 Screenshot
 
-Screenshot aplikasi tersedia di folder [`docs/screenshots`](./docs/screenshots).
+<p align="center">
+  <img src="docs/screenshots/1.tampilan-awal.png" width="200"/>
+  <img src="docs/screenshots/2.login-admin.png" width="200"/>
+  <img src="docs/screenshots/3.edit-menu.png" width="200"/>
+  <img src="docs/screenshots/4.edit-menu2.png" width="200"/>
+  <img src="docs/screenshots/5.tambah-menu-baru.png" width="200"/>
+  <img src="docs/screenshots/6.menu-page.png" width="200"/>
+  <img src="docs/screenshots/7.menu-page2.png" width="200"/>
+  <img src="docs/screenshots/8.keranjang.png" width="200"/>
+  <img src="docs/screenshots/chekout-page.png" width="200"/>
+  <img src="docs/screenshots/payment-dikasir.png" width="200"/>
+  <img src="docs/screenshots/payment-online.png" width="200"/>
+  <img src="docs/screenshots/payment-online2.png" width="200"/>
+  <img src="docs/screenshots/payment-midtrans.png" width="200"/>
+  <img src="docs/screenshots/payment-sukses" width="200"/>
+</p>
 
 ## 📄 Dokumentasi Tambahan
 

@@ -54,7 +54,7 @@ Screenshot aplikasi tersedia di folder [`docs/screenshots`](./docs/screenshots).
 
 ## 👤 Author
 
-**Aripin** — Universitas Islam Malang (UIM Yogya)
+**Aripin** — Universitas Islam Mulia (UIM Yogya)
 
 ## 📝 License
 

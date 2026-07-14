@@ -1,3 +1,7 @@
+<p align="center">
+  <i>❤️ Dibangun dengan hati dan ☕</i>
+</p>
+
 # 🍜 Panda Ramen
 
 Aplikasi pemesanan makanan berbasis Flutter dengan backend Node.js, menggunakan Firebase, Cloudinary, dan Midtrans sebagai payment gateway.

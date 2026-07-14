@@ -1,5 +1,5 @@
 <p align="center">
-  <i>❤️ Dibangun dengan hati dan ☕</i>
+  <i>Dibangun dengan ❤️ dan ☕</i>
 </p>
 
 # 🍜 Panda Ramen

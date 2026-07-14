@@ -131,7 +131,6 @@ Backend berjalan di terminal pertama, aplikasi Flutter berjalan di terminal kedu
   <img src="docs/screenshots/chekout-page.png" width="200"/>
   <img src="docs/screenshots/payment-dikasir.png" width="200"/>
   <img src="docs/screenshots/payment-online.png" width="200"/>
-  <img src="docs/screenshots/payment-online2.png" width="200"/>
   <img src="docs/screenshots/payment-midtrans.png" width="200"/>
   <img src="docs/screenshots/payment-sukses.png" width="200"/>
 </p>

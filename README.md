@@ -143,7 +143,7 @@ Backend berjalan di terminal pertama, aplikasi Flutter berjalan di terminal kedu
 
 ## 👤 Author
 
-**Aripin** **kory** — Universitas Islam Mulia (UIM Yogya)
+**Aripin** **&** **kory** — Universitas Islam Mulia (UIM Yogya)
 
 ## 📝 License
 
